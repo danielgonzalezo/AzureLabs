@@ -1,1 +1,1 @@
-# LabsIADRA
+# LabsIADRA - Azure Labs practices
